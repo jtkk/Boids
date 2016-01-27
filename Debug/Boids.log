@@ -1,0 +1,47 @@
+﻿Build started 6/2/2015 1:52:02 PM.
+     1>Project "C:\Users\kawasaki\Documents\Visual Studio 2013\Projects\Boids\Boids.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\kawasaki\Documents\Visual Studio 2013\Projects\Boids" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt btest.cpp
+         btest.cpp
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(19): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(20): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(21): warning C4244: 'initializing' : conversion from 'int' to 'const float', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(22): warning C4244: 'initializing' : conversion from 'int' to 'const float', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(28): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(29): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(30): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(31): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(34): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(51): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(54): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(61): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(64): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(70): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(74): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(120): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(130): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(139): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(149): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(156): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(168): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(183): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(217): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(247): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(260): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(273): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(304): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(319): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(329): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(339): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kawasaki\documents\visual studio 2013\projects\boids\btest.cpp(447): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kawasaki\Documents\Visual Studio 2013\Projects\Boids\Debug\Boids.exe" /INCREMENTAL /NOLOGO freeglut.lib glu32.lib opengl32.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\kawasaki\Documents\Visual Studio 2013\Projects\Boids\Debug\Boids.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kawasaki\Documents\Visual Studio 2013\Projects\Boids\Debug\Boids.lib" /MACHINE:X86 Debug\Boid.obj
+         Debug\btest.obj
+         Debug\GLSL.obj
+         Boids.vcxproj -> C:\Users\kawasaki\Documents\Visual Studio 2013\Projects\Boids\Debug\Boids.exe
+     1>Done Building Project "C:\Users\kawasaki\Documents\Visual Studio 2013\Projects\Boids\Boids.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.82
